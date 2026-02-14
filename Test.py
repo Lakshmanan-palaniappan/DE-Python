@@ -5,3 +5,8 @@ print("Making Some Changes")
 for i in range(5):
     print(i)
 
+def login(name):
+    if name=="Admin":
+        print("Admin Logged in")
+
+login("Admin")
