@@ -5,12 +5,3 @@ print("Making Some Changes")
 for i in range(5):
     print(i)
 
-
-def login(role):
-    if role=="Admin":
-        print("Admin Logged in")
-    elif role=="DE-Intern":
-        print("Data Engineering Intern Logged in")
-
-login("Admin")
-
