@@ -9,4 +9,4 @@ print("Generator List Size: ", sys.getsizeof(gen_list))
 
 print("This is a Generator List")
 print(list(itertools.islice(gen_list, 100)))
-    
+        
