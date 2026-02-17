@@ -213,3 +213,22 @@ if __name__ == "__main__":
     set_a = set(map(int, input().split()))
     set_b = set(map(int, input().split()))
     print(calculate_happiness(arr, set_a, set_b))
+
+
+#Word Count
+def find_word_order(n, words):
+    dct = {}
+    for w in words:
+        if w in dct:
+            dct[w] += 1
+        else:
+            dct[w] = 1
+    return dct
+
+if __name__ == "__main__":
+    n = int(input())
+    words = [input().strip() for _ in range(n)]
+    dct = find_word_order(n, words)
+
+    print(len(dct))
+    print(" ".join(map(str, dct.values())))
