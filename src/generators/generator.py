@@ -3,9 +3,13 @@ def number_stream(limit):
         yield i * 10
 
 stream = number_stream(7)
-#print(list(stream))
 try:
     for value in stream:
         print(value)
+    #print(list(stream))
 except Exception as e:
     print(e)
+gen = (x for x in range(5))
+print(next(gen))
+print(next(gen))
+print(list(gen))
