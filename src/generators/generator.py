@@ -3,5 +3,9 @@ def number_stream(limit):
         yield i * 10
 
 stream = number_stream(7)
-for value in stream:
-    print(value)
+#print(list(stream))
+try:
+    for value in stream:
+        print(value)
+except Exception as e:
+    print(e)
