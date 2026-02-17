@@ -1,9 +1,3 @@
-Perfect, I’ll keep **your syllabus as the core** and add only the **normal README sections** (structure, how to run, purpose), without changing your topics or adding new ones.
-
-You can paste this directly into `README.md`.
-
----
-
 # Python Learning and Practice
 
 This repository is used to practice Python step by step, starting from basic programming concepts and moving toward advanced topics. Each topic in the syllabus is practiced with code examples, and progress is tracked using Git.
@@ -162,9 +156,6 @@ The repository is organized by topic. Each topic has its own folder containing e
     ├── object_oriented_programming/
     └── py_assignment/
 ```
-
-This structure will grow as more topics from the syllabus are added.
-
 ---
 
 ## How to Run the Code
