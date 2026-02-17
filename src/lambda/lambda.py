@@ -6,4 +6,3 @@ products = [
 
 sorted_products = sorted(products, key=lambda x: x["price"])
 print(sorted_products)
-    
