@@ -1,2 +1,6 @@
 src/py_assignment
 .env
+__pycache__/
+*.pyc
+*.pyo
+
