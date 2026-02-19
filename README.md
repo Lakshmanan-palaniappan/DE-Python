@@ -71,13 +71,13 @@ Variables, data types, loops, and conditional statements.
 
 **10.2 Generators**
 
-**10.4 Lambda Functions**
+**10.3 Lambda Functions**
 
-**10.5 Higher Order Functions (map, filter, reduce)**
+**10.4 Higher Order Functions (map, filter, reduce)**
 
-**10.6 API Integration**
+**10.5 API Integration**
 
-**10.7 Logging**
+**10.6 Logging**
 
 ### 11. Testing in Python
 
