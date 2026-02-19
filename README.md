@@ -20,24 +20,31 @@ Variables, data types, loops, and conditional statements.
 ### 3. Getting Started
 
 **3.1 Introduction to Python**
+
 **3.2 Installing Python**
 
 ### 4. Python Basics
 
 **4.1 Variables and Data Types**
+
 **4.2 Control Flow (if, else, elif)**
+
 **4.3 Loops (for, while)**
 
 ### 5. Functions and Modules
 
 **5.1 Functions**
+
 **5.2 Modules and Packages**
 
 ### 6. Data Structures
 
 **6.1 Lists**
+
 **6.2 Dictionaries**
+
 **6.3 Tuples**
+
 **6.4 Sets**
 
 ### 7. File Handling
@@ -47,8 +54,11 @@ Variables, data types, loops, and conditional statements.
 ### 8. Object-Oriented Programming (OOP)
 
 **8.1 Classes and Objects**
+
 **8.2 Inheritance**
+
 **8.3 Abstraction**
+
 **8.4 Encapsulation**
 
 ### 9. Error Handling
@@ -58,15 +68,21 @@ Variables, data types, loops, and conditional statements.
 ### 10. Advanced Topics
 
 **10.1 Decorators**
+
 **10.2 Generators**
+
 **10.4 Lambda Functions**
+
 **10.5 Higher Order Functions (map, filter, reduce)**
+
 **10.6 API Integration**
+
 **10.7 Logging**
 
 ### 11. Testing in Python
 
 **11.1 Unit Testing**
+
 **11.2 Pytest**
 
 ---
