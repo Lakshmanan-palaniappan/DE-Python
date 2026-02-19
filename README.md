@@ -14,6 +14,7 @@ Variables, data types, loops, and conditional statements.
 ### 2. Command Line Basics
 
 **2.1 Basic command line navigation and execution of Python scripts**
+
 **2.2 Essential Python Topics**
 
 ### 3. Getting Started
